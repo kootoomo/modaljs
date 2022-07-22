@@ -7,6 +7,7 @@ h2 {
 }
 #open-modal {
     cursor: pointer;
+	margin-left: 2rem;
 }
 .modal {
     display: none;
